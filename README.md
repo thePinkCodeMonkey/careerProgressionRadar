@@ -1,4 +1,4 @@
-# careerProgressionRadar
+# Career Progression Radar Chart
 Prototyped with [ CodeSandbox ](https://codesandbox.io/s/chart-js-radar-2oxprb?file=/src/index.js )
 
 <a href="https://gitpod.io/#<your-project-url>">
@@ -9,3 +9,5 @@ Prototyped with [ CodeSandbox ](https://codesandbox.io/s/chart-js-radar-2oxprb?f
 </a>
 
 [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#<your-project-url>)
+
+A small playground for me to explore radar using Chart.js and different ways to evaluate career progression.
